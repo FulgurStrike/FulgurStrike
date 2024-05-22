@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Any open source project**
 
-- 👨‍💻 All of my projects are available at [fulgurstrike.github.io](fulgurstrike.github.io)
+- 👨‍💻 All of my finished projects are available at [fulgurstrike.github.io](fulgurstrike.github.io)
 
 - 📫 How to reach me **azurefalctis@proton.me**
 
