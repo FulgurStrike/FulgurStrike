@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A gui clone of the modding menu in Warframe](https://github.com/FulgurStrike/WarframeModdingMenu)
 
-- 🌱 I’m currently learning **Java, JavaScript, C, Python**
+- 🌱 I’m currently learning **C# .NET**
 
 - 👯 I’m looking to collaborate on **Any open source project**
 
